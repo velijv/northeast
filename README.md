@@ -1,5 +1,7 @@
 # [Northeast by Veli](http://veli.ee/northeast/)
-Northeast is a logo proposal for the national brand of Estonia. Finalist in the competition "Eesti Märk".
+Northeast is a logo proposal for the national brand of Estonia. Finalist in the competition "Eesti Märk". Use it to 
+
+![Example usage](https://raw.githubusercontent.com/velijv/northeast/master/splash.png)
 
 ## Symbol essence
 * Northeast location
