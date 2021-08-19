@@ -24,12 +24,12 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 *    Grain
 
 ## Brandmark construction
-###Symbol
+### Symbol
 The shape's main idea is to convey the geological and political location of Estonia - Northeast Europe.
-###Typography
+### Typography
 The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created by Estonian typographer [Anton Koovit](http://www.korkork.com). 
 
-##Download & use
+## Download & use
 The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
 Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee)
 ### Licence
