@@ -3,6 +3,10 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 
 <img src="splash.png">
 
+
+<details>
+  <summary>🇪🇪 Symbol essence</summary>
+
 ## Symbol essence
 * Northeast location
 *    Cardinal points
@@ -24,6 +28,9 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 *    Modern / Startup
 *    Cross-stich
 *    Grain
+  
+</details>
+
 
 ## Brandmark construction
 ### Symbol
@@ -31,9 +38,13 @@ The shape's main idea is to convey the geological and political location of Esto
 ### Typography
 The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created by Estonian typographer [Anton Koovit](http://www.korkork.com). 
 
-## Download & use
-The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
-Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee)
-### Licence
-Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
+---
+
+> ## Download & use
+> The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
+> Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee)
+
+---
+
+<sub>Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. </sub>
 
