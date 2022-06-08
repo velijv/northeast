@@ -70,7 +70,7 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 </details>
 
 
-> [💾 Download (or embed) & use - dynamically generated SVG](https://veli.ee/northeast)
+> **[💾 Download (or embed) & use - dynamically generated SVG](https://veli.ee/northeast)**
 > The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
 > Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee)
 
