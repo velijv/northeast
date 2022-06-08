@@ -3,7 +3,7 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 
 <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=designed&c1=808080" alt="Designed in Estonia" height="64"></a>
 <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=engineered&c1=808080" alt="Engineered in Estonia" height="64"></a>
-<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=welcome&c1=808080" alt="Welcome to Estonia" height="64"></a>
+<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=welcome%20to&c1=808080" alt="Welcome to Estonia" height="64"></a>
 <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=cutest%20people&c1=808080" alt="Cutest People" height="64"></a>
 
 
