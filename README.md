@@ -1,7 +1,9 @@
 ## [Northeast by Veli](http://veli.ee/northeast/)
 Northeast is a logo proposal for the national brand of Estonia. Finalist in the competition "Eesti Märk". Use it to show the world your heritage, if your product or service is created or based in Estonia. 
 
-[![](https://veli.ee/northeast/img/grid.svg)](#)
+
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/img/grid.svg?2" height="200" alt="Grid"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=githubiest&c1=808080" height="200" alt="Logo"></a>
 
 ## 📐 Brandmark construction
 ### ↗️ Symbol
