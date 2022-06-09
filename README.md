@@ -40,9 +40,9 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 
 ---
 
-# Copy code, paste to your site and use it
+## 🤝 Copy code, paste to your site and use it
 
-| <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=designed&c1=808080" alt="Designed in Estonia" height="64"></a> 	| `<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=designed&c1=808080" alt="Designed in Estonia" style=""height:2em</a>`
+| <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=powered%20by&c1=808080" alt="Designed in Estonia" height="64"></a> 	| `<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=powered%20by" alt="Powered by" style=""height:2em</a>`
 |----------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------	|
 
 
@@ -57,7 +57,7 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 - `<img src="http://veli.ee/northeast/logo.php?type=welcome%20to" alt="Welcome to Estonia" height="64">`
 - `<img src="http://veli.ee/northeast/logo.php?type=cutest%20people" alt="Cutest People" height="64">`
 - - ### markdown:
-- - `[![Northeast](http://veli.ee/northeast/logo.php?type=cutest%20people&c1=808080)](https://github.com/velijv/northeast)`
+- - `[![Northeast](http://veli.ee/northeast/logo.php?type=cutest%20people)](https://github.com/velijv/northeast)`
 
 
 <a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=designed&c1=808080" alt="Designed in Estonia" height="64"></a>
