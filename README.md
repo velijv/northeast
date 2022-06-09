@@ -108,7 +108,7 @@ You can use your own `type=""` value, using `%20` or `+` for space
 
 
 ## [💾 Download/embed & use - dynamically generated SVG](https://veli.ee/northeast) 
-> ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll ⭐ feature it on the website!
+> ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
 
 ---
 
