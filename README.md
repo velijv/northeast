@@ -50,7 +50,7 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 
 *** 
   
-You can use your own `type=""` value, using `%20` or `+` for space 
+You can use your own `type=""` value, using `%20` or `+` for space. Leave it out for random nice texts 😊
 
 ### HTML
 
