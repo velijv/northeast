@@ -1,7 +1,7 @@
 ## [Northeast by Veli](http://veli.ee/northeast/)
 Northeast is a logo proposal for the national brand of Estonia. Finalist in the competition "Eesti Märk". Use it to show the world your heritage, if your product or service is created or based in Estonia. 
 
-<img src="https://repository-images.githubusercontent.com/53682767/e402310d-0f99-4f4b-800b-50920da63f14">
+[![](https://veli.ee/northeast/img/grid.svg)](#)
 
 ## 📐 Brandmark construction
 ### ↗️ Symbol
@@ -111,6 +111,8 @@ You can use your own `type=""` value, using `%20` or `+` for space
 > ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
 
 ---
+
+<img src="https://repository-images.githubusercontent.com/53682767/e402310d-0f99-4f4b-800b-50920da63f14">
 
 <sub>Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. </sub>
 
