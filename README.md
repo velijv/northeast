@@ -105,7 +105,7 @@ You can use your own `type=""` value, using `%20` or `+` for space
 
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080" alt="Designed in Estonia" height="64"></a>
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080" alt="Engineered in Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=welcome+to&c1=808080" alt="Welcome to Estonia" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&1" alt="Welcome to Estonia" height="64"></a>
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=cutest+people&c1=808080" alt="Cutest People" height="64"></a>
 
 
