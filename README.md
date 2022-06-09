@@ -50,7 +50,7 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 <details>
   <summary>✍ copy from premade or roll your own</summary>
   
-## You can use your own `type="" value`, usin `%20` separated for space 
+## You can use your own `type="" value`, using `%20` separated for space 
 
 - `<img src="http://veli.ee/northeast/logo.php?type=designed" alt="Designed in Estonia" height="64">`
 - `<img src="http://veli.ee/northeast/logo.php?type=engineered" alt="Engineered in Estonia" height="64">`
