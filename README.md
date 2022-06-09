@@ -6,31 +6,31 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 ## 📐 Brandmark construction
 ### ↗️ Symbol
 The shape's main idea is to convey the geological and political location of Estonia - Northeast Europe.
+The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
 
 <details>
   <summary>🇪🇪 Symbol essence</summary>
 
-### Symbol essence
-* Northeast location
-*    Cardinal points
-*    Cornflower
-*    Sun wheel
-*    National motif
-*    Snowflake
-*    Nordic Cross
-*    Movement / Engergy
-*    Centered
-*    Focus
-*    IT / click
-*    Pixel / digital
-*    Cursor
-*    Etno / seto
-*    Jews' harp
-*    Brooch
-*    #hashtag
-*    Modern / Startup
-*    Cross-stich
-*    Grain
+* ↗️ Northeast location
+* 🧭 Cardinal points
+* 🏵️ Cornflower
+* 🛞 Sun wheel
+* 🏵 National motif
+* 🏵 Snowflake
+* 🕂 Nordic Cross
+* 🌀 Movement / Engergy
+* 🧿 Centered
+* 🎯 Focus
+* ▪ IT / click
+* ▪ Pixel / digital
+* 👆 Cursor
+* 👾 Etno / seto
+* 𓏢 Jews' harp
+* 🌸 Brooch
+* #️⃣ #hashtag
+* 🌱 Modern / Startup
+* 🪡 Cross-stich
+* 🌾 Grain
   
 </details>
 
@@ -99,7 +99,7 @@ You can use your own `type=""` value, using `%20` or `+` for space
   </tr>
 </table>
 
-
+### 👇 Examples
 
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080" alt="Designed in Estonia" height="64"></a>
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080" alt="Engineered in Estonia" height="64"></a>
@@ -107,9 +107,8 @@ You can use your own `type=""` value, using `%20` or `+` for space
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=cutest+people&c1=808080" alt="Cutest People" height="64"></a>
 
 
-> ## [💾 Download/embed & use - dynamically generated SVG](https://veli.ee/northeast) 
-> ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee)
-> The brand is designed with flexibility to express the strength of Estonian creation in any area possible. 
+## [💾 Download/embed & use - dynamically generated SVG](https://veli.ee/northeast) 
+> ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll ⭐ feature it on the website!
 
 ---
 
