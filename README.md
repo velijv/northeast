@@ -46,7 +46,7 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 
 
 <details>
-  <summary>✍ copy from premade or roll your own</summary>
+  <summary> 👇 <em>copy from premade</em>, <strong>roll your own</strong> or leave blank for ✨random✨ </summary>
 
 *** 
   
@@ -101,7 +101,7 @@ You can use your own `type=""` value, using `%20` or `+` for space
   </tr>
 </table>
 
-### 👇 Examples
+### ☝️ Examples
 
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080" alt="Designed in Estonia" height="64"></a>
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080" alt="Engineered in Estonia" height="64"></a>
