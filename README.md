@@ -2,8 +2,8 @@
 Northeast is a logo proposal for the national brand of Estonia. Finalist in the competition "Eesti Märk". Use it to show the world your heritage, if your product or service is created or based in Estonia. 
 
 
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/img/grid.svg?2" height="200" alt="Grid"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=git.veli.ee&c1=808080&t2" height="200" alt="Logo"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/img/grid.svg?2" height="128" alt="Grid"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=git.veli.ee&c1=808080&t2" height="128" alt="Logo"></a>
 
 
 <details>
@@ -115,10 +115,10 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 
 ### ☝️ Examples
 
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080&t2" alt="Designed in Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080&t2" alt="Engineered in Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&t2" alt="Welcome to Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=bestest+coders&c1=808080&t2&1" alt="Cutest People" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080&t2" alt="Designed in Estonia" height="48"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080&t2" alt="Engineered in Estonia" height="48"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&t2" alt="Welcome to Estonia" height="48"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=bestest+coders&c1=808080&t2&1" alt="Cutest People" height="48"></a>
 
 
 ## [💾 Download/embed](https://veli.ee/northeast) 
