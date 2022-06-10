@@ -3,7 +3,13 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 
 
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/img/grid.svg?2" height="200" alt="Grid"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=git.veli.ee&c1=808080" height="200" alt="Logo"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=git.veli.ee&c1=808080&t2" height="200" alt="Logo"></a>
+
+
+<details>
+  <summary> 📚 <strong>Read more</strong> about the design </summary>
+
+*** 
 
 ## 📐 Brandmark construction
 ### ↗️ Symbol
@@ -39,7 +45,13 @@ The brand is designed with flexibility to express the strength of Estonian creat
 ### ⌨️ Typography
 The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created by Estonian typographer [Anton Koovit](http://www.korkork.com). 
 
----
+</details>
+
+## ✨ Result
+
+> Dynamically generated SVG, which can be embedded to websites or downloaded. It automatically applies brand system conditions, ie:
+> - Automatic highlighter inserts brand elements in characters "est" and "e".
+
 
 ## 🤝 Copy code, paste to your site and use it
 
@@ -103,18 +115,14 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 
 ### ☝️ Examples
 
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080" alt="Designed in Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080" alt="Engineered in Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&1" alt="Welcome to Estonia" height="64"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=cutest+people&c1=808080" alt="Cutest People" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in&c1=808080&t2" alt="Designed in Estonia" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in&c1=808080&t2" alt="Engineered in Estonia" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&t2" alt="Welcome to Estonia" height="64"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=bestest+coders&c1=808080&t2&1" alt="Cutest People" height="64"></a>
 
 
-## [💾 Download/embed & use - dynamically generated SVG](https://veli.ee/northeast) 
-> ### Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
+## [💾 Download/embed](https://veli.ee/northeast) 
+> Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
 
----
-
-<img src="https://repository-images.githubusercontent.com/53682767/e402310d-0f99-4f4b-800b-50920da63f14">
-
-<sub>Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. </sub>
+[![Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](https://img.shields.io/badge/Licence-Creative%20Commons%20Attribution--NonCommercial-rgba%280%2C0%2C0%2C0%29?&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
 
