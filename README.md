@@ -90,12 +90,12 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 <table>
   <tr>
 <td rowspan="2">
-<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=powered+by&c1=808080" alt="Designed in Estonia" height="64"></a>
+<a href="http://veli.ee/northeast"><img src="http://veli.ee/northeast/logo.php?type=powered+by&c1=808080" alt="Designed in Estonia" height="48"></a>
 </td>
     <td>
 
 ```markdown
-[![Powered by Estonia](https://veli.ee/northeast/logo.php?type=powered+by)](https://github.com/velijv/northeast)
+[![.ee](https://veli.ee/northeast/logo.php?type=powered+by)](https://github.com/velijv/northeast)
 ```  
 
   </td>
@@ -105,7 +105,7 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 
 ```html
 <a href="https://veli.ee/northeast">
-<img src="https://veli.ee/northeast/logo.php?type=powered+by" alt="Powered by Estonia"
+<img src="https://veli.ee/northeast/logo.php?type=powered+by" alt=".ee"
 </a>  
 ```
 
