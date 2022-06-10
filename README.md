@@ -124,5 +124,5 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 ## [💾 Download/embed](https://veli.ee/northeast) 
 > Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
 
-[![Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](https://img.shields.io/badge/Licence-Creative%20Commons%20Attribution--NonCommercial-rgba%280%2C0%2C0%2C0%29?&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
+[![Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License](https://img.shields.io/badge/Licence-Creative%20Commons%20Attribution--NonCommercial-rgba%280%2C0%2C0%2C0%29?logo=CreativeCommons&logoColor=fff&labelColor=00f&style=flat-square&color=rgba(0,0,0,0.3))](https://creativecommons.org/licenses/by-nc/4.0/ "Northeast by Veli-Johan Veromann is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.")
 
