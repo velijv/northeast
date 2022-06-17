@@ -3,7 +3,7 @@ Northeast is a logo proposal for the national brand of Estonia. Finalist in the 
 
 
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/img/grid.svg?2" height="128" alt="Grid"></a>
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=git.veli.ee&c1=808080&t2" height="128" alt="Logo"></a>
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo?t=git.veli.ee&c=808080&t2" height="128" alt="Logo"></a>
 
 
 <details>
@@ -62,27 +62,27 @@ The wordmark is set in "[Adam](https://www.fatype.com/typefaces/adam)", created 
 
 *** 
   
-You can use your own `type=""` value, using `%20` or `+` for space. Leave it out for random nice texts 😊
+You can use your own `t=""` value, using `%20` or `+` for space. Leave it out for random nice texts 😊
 
 ### HTML
 
 ```html
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=designed+in" alt="Designed in Estonia"></a>  
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo?=designed+in" alt="Designed in Estonia"></a>  
 ```
 ```html
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=engineered+in" alt="Engineered in Estonia"></a>  
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo?t=engineered+in" alt="Engineered in Estonia"></a>  
 ```
 ```html
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=welcome+to" alt="Welcome to Estonia"></a>  
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logot=welcome+to" alt="Welcome to Estonia"></a>  
 ```
 ```html
-<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=cutest+people" alt="Cutest People"></a>  
+<a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logot=cutest+people" alt="Cutest People"></a>  
 ```  
 
 ### markdown
   
 ```markdown
-[![Northeast](http://veli.ee/northeast/logo.php?type=cutest+people)](https://github.com/velijv/northeast)
+[![Northeast](http://veli.ee/northeast/logo?t=cutest+people&b=808080)](https://github.com/velijv/northeast)
 ```
   
 </details>
@@ -95,7 +95,7 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
     <td>
 
 ```markdown
-[![.ee](https://veli.ee/northeast/logo.php?type=powered+by)](https://github.com/velijv/northeast)
+[![.ee](https://veli.ee/northeast/logo?t=powered+by&b=808080)](https://github.com/velijv/northeast)
 ```  
 
   </td>
@@ -105,7 +105,7 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 
 ```html
 <a href="https://veli.ee/northeast">
-<img src="https://veli.ee/northeast/logo.php?type=powered+by" alt=".ee"
+<img src="https://veli.ee/northeast/logo?t=powered+by" alt=".ee"
 </a>  
 ```
 
@@ -120,6 +120,31 @@ You can use your own `type=""` value, using `%20` or `+` for space. Leave it out
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?&c1=808080&t2" alt="Welcome to Estonia" height="48"></a>
 <a href="https://veli.ee/northeast"><img src="https://veli.ee/northeast/logo.php?type=bestest+coders&c1=808080&t2&1" alt="Cutest People" height="48"></a>
 
+
+<details open>
+  <summary> 🎨 customize </summary>
+
+*** 
+  
+## Customize
+
+```php
+?t=your+text // your text for first line, blank for random
+```
+```php
+?c=hex // primary color, blank for blue
+```
+```php
+?b=hex // secondary color, blank for black
+```
+```php
+?t2 // set and blank for random magic, set for appended to second line
+```  
+```php
+?download // download svg
+```  
+
+</details>
 
 ## [💾 Download/embed](https://veli.ee/northeast) 
 > Are you using the mark anywhere? [Let me know!](mailto:northeast@veli.ee) and I'll [⭐ feature it on the website](https://veli.ee/northeast#featured)!
